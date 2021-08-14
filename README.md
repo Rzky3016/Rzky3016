@@ -1,6 +1,9 @@
 ## <i>Eyyooo...</i> 👋
-#### <i>Hey you my name is Rizky</i>
-#### <i>I come from Indonesia, Editing is my ninja way. Github is one of my places to channel creativity through programs</i>
+#### <i>Hey you my name is Rizky, Developer From Paradise
+
+
+</i>
+## <i>I come from Indonesia, Editing is my ninja way. Github is one of my places to channel creativity through programs</i>
 <p align="left"> <a href="https://t.me/paradiseuserbot"><img src="https://img.shields.io/badge/Group%20Support%3F-click here-black?&style=flat-square?&logo=telegram" width=125px></a></p>
 
 ## 📬 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Nopegoodloking) 
