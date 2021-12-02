@@ -8,8 +8,6 @@
 
 ## 📬 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Nopegoodloking) 
 
-![Rzky3016 Logo](https://telegra.ph/file/aa8ef4cdc5f0514e73001.jpg)
-
 ## PARADISE PROJECTS :
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Rzky3016&repo=Paradise-Userbot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Rzky3016&repo=Paradise-Music&theme=dark)
